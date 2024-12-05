@@ -1,0 +1,9 @@
+__pycache__
+.venv
+
+ce_5073_tasca_3_1/churn_predict_app.py
+ce_5073_tasca_3_1/churn_predict_service.py
+ce_5073_tasca_3_1/client_caso_practico.ipynb
+ce_5073_tasca_3_1/datos_caso_practico.ipynb
+models/churn-model.pck
+datasets/Telco-Customer-Churn.csv
